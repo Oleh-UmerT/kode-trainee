@@ -1,0 +1,20 @@
+.wrapper {
+    margin: 25px 0 0 0;
+}
+
+.wrapperUsers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
+
+.item {
+    margin: 10px;
+    color: black;
+}
+
+.image {
+    border-radius: 50%;
+    width: 200px;
+}
